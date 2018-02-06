@@ -1,0 +1,24 @@
+{
+  "name": "refify",
+  "version": "1.0.0",
+  "description": "Find all commits across a base directory on a given ISO string day 🙌",
+  "main": "index.js",
+  "bin": {
+    "refify": "index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamstuartwilson/refify.git"
+  },
+  "author": "",
+  "author": "@iamstuartwilson",
+  "bugs": {
+    "url": "https://github.com/iamstuartwilson/refify/issues"
+  },
+  "homepage": "https://github.com/iamstuartwilson/refify#readme"
+}
